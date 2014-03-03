@@ -1,0 +1,97 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   .gitattributes
+#	new file:   .gitignore
+#	new file:   CONTRIBUTING.md
+#	new file:   app/commands/.gitkeep
+#	new file:   app/config/app.php
+#	new file:   app/config/auth.php
+#	new file:   app/config/cache.php
+#	new file:   app/config/compile.php
+#	new file:   app/config/database.php
+#	new file:   app/config/mail.php
+#	new file:   app/config/packages/.gitkeep
+#	new file:   app/config/queue.php
+#	new file:   app/config/remote.php
+#	new file:   app/config/session.php
+#	new file:   app/config/testing/cache.php
+#	new file:   app/config/testing/session.php
+#	new file:   app/config/view.php
+#	new file:   app/config/workbench.php
+#	new file:   app/controllers/.gitkeep
+#	new file:   app/controllers/AddcometController.php
+#	new file:   app/controllers/BaseController.php
+#	new file:   app/controllers/ComposeController.php
+#	new file:   app/controllers/DislikeController.php
+#	new file:   app/controllers/DraftController.php
+#	new file:   app/controllers/HomeController.php
+#	new file:   app/controllers/IndexController.php
+#	new file:   app/controllers/LikeController.php
+#	new file:   app/controllers/LoginController.php
+#	new file:   app/controllers/LogoutController.php
+#	new file:   app/controllers/SavemsgController.php
+#	new file:   app/controllers/ShowcometController.php
+#	new file:   app/controllers/SignupController.php
+#	new file:   app/controllers/UserController.php
+#	new file:   app/database/migrations/.gitkeep
+#	new file:   app/database/migrations/2014_03_01_071128_create_users_table.php
+#	new file:   app/database/production.sqlite
+#	new file:   app/database/seeds/.gitkeep
+#	new file:   app/database/seeds/DatabaseSeeder.php
+#	new file:   app/filters.php
+#	new file:   app/lang/en/pagination.php
+#	new file:   app/lang/en/reminders.php
+#	new file:   app/lang/en/validation.php
+#	new file:   app/models/Entry.php
+#	new file:   app/models/User.php
+#	new file:   app/routes.php
+#	new file:   app/start/artisan.php
+#	new file:   app/start/global.php
+#	new file:   app/start/local.php
+#	new file:   app/storage/.gitignore
+#	new file:   app/storage/cache/.gitignore
+#	new file:   app/storage/logs/.gitignore
+#	new file:   app/storage/meta/.gitignore
+#	new file:   app/storage/sessions/.gitignore
+#	new file:   app/storage/views/.gitignore
+#	new file:   app/tests/ExampleTest.php
+#	new file:   app/tests/TestCase.php
+#	new file:   app/views/draft.blade.php
+#	new file:   app/views/emails/auth/reminder.blade.php
+#	new file:   app/views/index.blade.php
+#	new file:   app/views/login.blade.php
+#	new file:   app/views/signup.blade.php
+#	new file:   artisan
+#	new file:   bootstrap/autoload.php
+#	new file:   bootstrap/paths.php
+#	new file:   bootstrap/start.php
+#	new file:   composer.json
+#	new file:   phpunit.xml
+#	new file:   public/.htaccess
+#	new file:   public/css/style.css
+#	new file:   public/favicon.ico
+#	new file:   public/images/bc.png
+#	new file:   public/images/dis.png
+#	new file:   public/images/l_avt.png
+#	new file:   public/images/like.png
+#	new file:   public/images/logo.png
+#	new file:   public/images/n_avt.png
+#	new file:   public/images/small_l.png
+#	new file:   public/images/small_n.png
+#	new file:   public/index.php
+#	new file:   public/js/jquery.js
+#	new file:   public/js/site.js
+#	new file:   public/packages/.gitkeep
+#	new file:   public/robots.txt
+#	new file:   readme.md
+#	new file:   server.php
+#
+

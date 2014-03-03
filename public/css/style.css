@@ -1,0 +1,88 @@
+body{ margin:0px; padding:0px;}
+.wrapper{ margin:0px auto; width:1000px; }
+.header{ float:left; width:100%; background:black;}
+.header img{ width:1000px; height:179px;}
+.left_menu{ float:left; width:260px;  height:300px;}
+.left_menu ul li{ border:1px solid; cursor:pointer;}
+.left_menu ul li:hover{ background:#e6e6e6;}
+.left_menu ul li a{ text-decoration:none; color:black;}
+.right_feed{ float:right; width:700px; }
+
+ul{ float:left; width:100%; margin:0px; padding:0px;}
+li{ float: left;width: 100%;list-style-type: none;font-size: 21px;margin:  0px;padding: 24px 0px;text-align: center;  font-weight:bolder}
+li:first-child{ margin:0px;}
+.f_left{ width:100%; float:left;}
+.font_24{font-size:24px;}
+.col_blue{ color:#93BEC7;}
+.col_gray{ color:#606571;}
+.col_red{ color:#F05333}
+.full{ width:100%;}
+/*////////////////////////////////////////signin.php////////////////////////////////////////////////////////////*/
+#register{border: 3px solid #ddd;}
+ .login{ margin:0px auto; width:585px; background-color:bisque;}
+ .login_signup{-webkit-appearance: push-button;
+-webkit-user-select: none;
+white-space: pre;
+cursor:pointer!important;
+ text-decoration:none;
+align-items: flex-start;
+text-align: center;
+cursor: default;
+color: buttontext;
+padding: 2px 6px 3px;
+border: 2px outset buttonface;
+border-image-source: initial;
+border-image-slice: initial;
+border-image-width: initial;
+border-image-outset: initial;
+border-image-repeat: initial;
+background-color: buttonface;padding: 1px 6px;box-sizing: border-box;}
+.f_name{ display:none;}
+.u_name{ display:none;}
+.emailid{ display:none;}
+.password{ display:none;}
+.confpassword{ display:none;}
+
+
+#model_box_outer{ position:absolute; height:100%; width:100%; left:0; top:0; display:none; }
+.close_btn{float:right; cursor:pointer;background:url(../images/dis.png);height:20px; width:20px;}
+#compose_msg{z-index: 9;position: absolute;top: 0;bottom: 0;left: 0;right: 0;margin: auto;height: 211px;width: 300px;background: #ccc;padding: 15px;}
+#inp_msg{ float:left; width:300px; height:150px;}
+.status{ color:black;font-weight:100;  margin: 9px 0px; padding:0px;}
+.without_cmmnt{ float:left; width: 700px;}
+.sts_avtr{ width:104px; height:102px; float:left;background-repeat:no-repeat; background:url(../images/n_avt.png); border:2px solid blue;}
+.l_avt{ background-image:url(../images/l_avt.png); border-color: blue;}
+.n_avt{ background-image:url(../images/n_avt.png); border-color: gray;}
+.cmmnt_sec{ float: right;width: 553px;border: 2px solid gray;padding: 11px;}
+
+.comment_sec{ float:right; display:none; }
+.left_cmmnt{float: left;width: 42px;background:url(../images/small_n.png);height: 40px;margin: 7px;border: 2px solid;}
+.small_l{background:url(../images/small_l.png)!important;}
+.right_cmmnt{ float:right;width: 541px; border:1px solid #ddd;}
+.right_cmmnt .cmmnt_block{ float:left;  width:538px; margin: 8px 0px;}
+.putcmmnt{ background:#99FF66;float:right;width: 500px; text-align:center; display:none;}
+.putcmmnt .cmnt{ float:left; width:500px;}
+.putcmmnt .done_btn{ border: 1px solid;padding: 2px;background: #ccc;cursor: pointer;border-radius: 10px;}
+.main_status{ text-align:center; font-size:25px; padding:28px 0px;}
+.comment_like{ padding:7px 0px;  }
+.comment_like span{text-decoration:underline; font-size:17px; cursor:pointer;}
+.name{ float:left;}
+.role{ float:left; margin-left:19px;}
+.date{ float:right; font-size:17px;}
+.hide_show{ float:left;}
+.add_cmnt{ float:right}
+.save_msg{ float:right;margin-right: 33px;color: orange;}
+.like_sec{ float:left; width:115px;   margin-left:25px;}
+.like_sec .like{ float:left; width:50%;}
+.like_sec .dislike{ float:right;width:50%;}
+.like_img{ float:right; cursor:pointer; background:url(../images/like.png); height:20px; width:20px;}
+.dis_img{ float:right; cursor:pointer;background:url(../images/dis.png);height:20px; width:20px;}
+.lower span{ font-size:18px;}
+.b_blue{ border:2px solid blue;}
+.b_gray{ border:2px solid gray;}
+#login{float: left;margin-top: 71px;border: 3px solid;padding: 9px;border-radius: 16px;}
+.valid_login{box-sizing: border-box;background: #eee;padding: 3px 10px;float: left;margin: 0px; cursor:pointer;border: 1px solid #e8e8e8;}
+.textbox{ background:#93BEC7; border:none;}
+.error{ display:none;}
+.regibtn{float: left;background: gray;padding: 6px;color: white;border: 1px solid;border-radius: 10px;}
+.create_acc{float: left;width: 688px;margin-left: 242px;padding: 22px;font-size: 24px;font-weight: bolder;}
